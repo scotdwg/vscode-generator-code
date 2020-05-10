@@ -1,6 +1,6 @@
 
 /*---------------------------------------------------------
-* Copyright (C) Microsoft Corporation. All rights reserved.
+* Copyright (C) Harper Corporation. All rights reserved.
 *--------------------------------------------------------*/
 'use strict';
 
