@@ -1,5 +1,5 @@
 /*---------------------------------------------------------
- * Copyright (C) Microsoft Corporation. All rights reserved.
+ * Copyright (C) Web Sharp Studios, Inc. All rights reserved.
  *--------------------------------------------------------*/
 var nameRegex = /^[a-z0-9][a-z0-9\-]*$/i;
 
