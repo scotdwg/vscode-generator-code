@@ -1,5 +1,5 @@
 /*---------------------------------------------------------
- * Copyright (C) Microsoft Corporation. All rights reserved.
+ * Copyright (C) Web Sharp Sudios, Inc. All rights reserved.
  *--------------------------------------------------------*/
 'use strict';
 
